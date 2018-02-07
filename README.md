@@ -1,2 +1,2 @@
 # Calculator
-![Calculator Screenshot](https://github.com/JaxonDriver/Calculator Screenshot/blob/master/Calculator Screenshot.png)
+![calculatorscreenshot](https://github.com/JaxonDriver/calculatorscreenshot/blob/master/calculatorscreenshot.png)
